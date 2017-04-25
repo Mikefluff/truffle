@@ -36,6 +36,6 @@ command.run(process.argv.slice(2), options, function(err) {
     process.exit(1);
   }
   else {
-    proceass.exit(0);
+    process.exit(0);
   }
 });
